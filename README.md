@@ -1,7 +1,3 @@
-Here is a **clean GitHub-ready README** for your **Employee Onboarding Feedback Analytics Dashboard** project. It explains the business value, technical implementation, and the DAX measures in a way that works well for **recruiters, hiring managers, and portfolio reviewers**.
-
----
-
 # Employee Onboarding Feedback Analytics Dashboard
 
 ## Overview
@@ -14,15 +10,14 @@ By automating survey analysis and visualization, the project replaces manual rep
 
 ---
 
-# Dashboard Preview
+## Overall Rating
+![Workforce Overview](Images/O1.png)
 
-```markdown
-![Dashboard Overview](Images/O1.png)
+## Individual Ratings
+![Turnover Analysis](Images/O2.png)
 
-![Department Insights](Images/O2.png)
-
-![Trend Analysis](Images/O3.png)
-```
+## Ratings Overtime
+![Department Insights](Images/O3.png)
 
 ---
 
